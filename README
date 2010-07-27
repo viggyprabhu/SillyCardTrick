@@ -1,0 +1,5 @@
+This is a very naive implementation of a card trick I had learnt in my school days. I had implemented the same in my college days in C and thought that it will be a good first step to my entry in developing Android app.
+
+I built it using Eclipse Plugin and I reallt dont know how you are going to build it. Probably you will also have to use the Eclipse plugin.
+
+Presently the number of cards displayed at the first run is fixed. I will randomize it in the next release.
