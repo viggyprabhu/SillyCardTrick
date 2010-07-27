@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SillyCardTrick!</string>
+    <string name="app_name">SillyCardTrick</string>
+    <string name="card_prompt">Choose a Single Card in the above 21 Cards </string>
+    <string name="select_prompt">Select the column in which the card is present</string>
+    <string name="card_prompt2">Select the column again in which your card is present</string>
+    <string name="button1">Column 1</string>
+    <string name="button2">Column 2</string>
+    <string name="button3">Column 3</string>
+    <string name="result_prompt">The card that you had chosen is :</string>
+</resources>
